@@ -9,7 +9,7 @@ import dishHoney from "@/assets/dish-honey-chilli.jpg";
 import dishBbq from "@/assets/dish-bbq-specials.jpg";
 
 const dishes = [
-  { name: "Mandii", desc: "Tender meat slow-cooked with aromatic spiced rice", img: dishMandi },
+  { name: "Mandi", desc: "Tender meat slow-cooked with aromatic spiced rice", img: dishMandi },
   { name: "Shawarma", desc: "Juicy marinated meat wrapped in fresh flatbread", img: dishShawarma },
   { name: "Grilled Chicken", desc: "Whole chicken charred to perfection over open flame", img: dishGrilled },
   { name: "Peri-Peri Al Faham", desc: "Fiery peri-peri glazed chicken, smoky and bold", img: dishPeri },
